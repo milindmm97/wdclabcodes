@@ -14,7 +14,7 @@ EC1 has 3 nodes
 EC2 has 4 nodes 
 
 To perform simulation: 
-./waf --run scratch/'<filename _without_.CC>'
+./waf --run scratch/filename _without_.CC
   
   
 make sure you are in /ns folder 
